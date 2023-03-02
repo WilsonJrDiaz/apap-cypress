@@ -16,7 +16,7 @@ Se realizaron las automatizaciones para las siguientes URL(s):
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/WilsonJrDiaz/apap-cypress.git
 ```
 
 Go to the project directory
